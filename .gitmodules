@@ -1,0 +1,9 @@
+[submodule "smart-contract"]
+	path = smart-contract
+	url = https://github.com/gig-ethglobal/smart-contract
+[submodule "website"]
+	path = website
+	url = https://github.com/gig-ethglobal/website
+[submodule "Indexer"]
+	path = Indexer
+	url = https://github.com/gig-ethglobal/Indexer
